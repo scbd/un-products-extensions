@@ -15,10 +15,7 @@
     "resolution",
     "extension"
   ],
-  "author": "CBD Secretariat",
+  "author": "Secretariat of the Convention on Biological Diversity",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/scbd/unep-resolutions-extension/issues"
-  },
   "homepage": "https://github.com/scbd/unep-resolutions-extension#readme"
 }
