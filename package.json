@@ -1,0 +1,24 @@
+{
+  "name": "unep-resolutions-extension",
+  "version": "1.0.0",
+  "description": "Add copy-paste + formating to unep resolutions statement/textual submissions",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scbd/unep-resolutions-extension.git"
+  },
+  "keywords": [
+    "unep",
+    "resolution",
+    "extension"
+  ],
+  "author": "CBD Secretariat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scbd/unep-resolutions-extension/issues"
+  },
+  "homepage": "https://github.com/scbd/unep-resolutions-extension#readme"
+}
