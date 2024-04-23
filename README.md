@@ -1,3 +1,3 @@
-# UNEP Resolutions chrome extension
+# SCBD Solutions to UN prodcuts using Chrome extensions
 
-Add copy-paste + formating to unep resolutions statement/textual submissions
+Chrome plugins to simplify user's life with UN tools 😬

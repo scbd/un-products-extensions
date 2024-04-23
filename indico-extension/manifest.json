@@ -1,0 +1,13 @@
+{
+    "name": "Indico chrome extension by SCBD!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+      {
+        "matches": [
+          "https://indico.un.org/event/*/manage/registration/*/registrations/*/"
+        ],
+        "js": ["content.js"]
+      }
+    ]
+  }
