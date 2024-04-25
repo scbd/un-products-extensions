@@ -2,7 +2,7 @@
 function formatDate(rawDate) {
     const date = new Date(rawDate.replace(/- \d+:\d+$/, 'UTC')); //fake UTC so date do not shift because of the tz
     const year = date.getUTCFullYear();
-    const month = `${date.getUTCMonth()}`.padStart(2, '0');
+    const month = `${date.getUTCMonth()+1}`.padStart(2, '0'); //Month start a 0
     const day = `${date.getUTCDate()}`.padStart(2, '0');
     return `${day}/${month}/${year}`;
 }
